@@ -27,7 +27,7 @@ rectangle "Red Social" {
 
 | # | Nombre |
 |---|--------|
-| CU01  | [Registrar nuevo usuario](casos-de-uso/CU01-Registrar-nuevo-usuario.md) |
+| CU01  | [ Confirmar Contraseña y Enviar Formulario](casos-de-uso/CU01-Registrar-nuevo-usuario.md) |
 | CU02  | Buscar Persona |
 | CU03  | Enviar Solicitud de Amistad |
 | CU04  | Aceptar o Rechazar solicitud de Amistad |
