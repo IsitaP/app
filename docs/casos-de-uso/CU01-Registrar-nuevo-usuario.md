@@ -1,6 +1,6 @@
 # CU01 - Registrar nuevo usuario
 
-Actor : Visitante
+Actor : Usuarios
 
 ## Guión (Curso normal de eventos)
 
@@ -18,10 +18,10 @@ Actor : Visitante
 2.1. Sistema muestra un mensaje "Ya existe otro usuario con ese login"
 2.2. Termina
 
-**Excepction:** El password no cumple con las reglas
+**Excepcion:** El password no cumple con las reglas
 
 5.1. Sistema muestra un mensaje "La contraseña no cumple con la política de la red social"
 5.2. Termina
 
---
+
 > [Regresar al diagrama](../casos-de-uso.md)
