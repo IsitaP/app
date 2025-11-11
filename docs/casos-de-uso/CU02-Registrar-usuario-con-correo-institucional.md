@@ -1,6 +1,6 @@
 # CU02 - Registro de usuario con correo institucional
 
-Actor : Usuario (Conductor o pasajero)
+**Actor:** Usuario (Conductor o pasajero)
 
 ## Guión (Curso normal de eventos)
 

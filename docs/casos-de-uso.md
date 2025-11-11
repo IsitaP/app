@@ -56,13 +56,7 @@ Estudiante --> UC4
 
 | # | Nombre |
 |---|--------|
-<<<<<<< HEAD
-| CU01  | [Registrar nuevo usuario](casos-de-uso/CU01-Registrar-nuevo-usuario.md) |
+| CU01  | [Confirmar contraseña](casos-de-uso/CU01-Registrar-nuevo-usuario.md) |
 | CU02  | [Registrar usuario con correo institucioanl](casos-de-uso/CU01-Registrar-nuevo-usuario.md) |
-=======
-| CU01  | [ Confirmar Contraseña y Enviar Formulario](casos-de-uso/CU01-Confirmar-contraseña.md) |
-| CU02  | Buscar Persona |
->>>>>>> origin/main
-| CU03  | Enviar Solicitud de Amistad |
-| CU04  | Aceptar o Rechazar solicitud de Amistad |
-| CU05  | Ver sus amigos |
+| CU03  | Diseñar |
+| CU04  | Buscar Persona |

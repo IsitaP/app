@@ -1,6 +1,6 @@
 # CU01 – Confirmar Contraseña y Enviar Formulario
 
-**Actor:** Estudiante (Visitante)
+ Estudiante (Visitante)
 
 ## Guion (Curso normal de eventos)
 
