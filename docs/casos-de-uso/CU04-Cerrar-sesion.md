@@ -1,4 +1,6 @@
-Usuario (Pasajero o Conductor)
+# CU03 – Cerrar sesion
+
+ Usuario (Pasajero o Conductor)
 
 ## Guion (Curso normal de eventos)
 
